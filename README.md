@@ -3,6 +3,7 @@
 一个简洁高效的 OpenClaw Gateway 管理工具，免去繁琐安装，开箱即用，帮助你轻松配置AI API。
 ## 下载地址
 https://pan.quark.cn/s/078863eb02b9?pwd=pxdj
+环境支持：windows10+  .net8.0
 
 <img width="1000" height="632" alt="image" src="https://github.com/user-attachments/assets/15701f89-6891-46d1-9a42-cfefe74f83db" />
 
