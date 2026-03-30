@@ -4,6 +4,8 @@
 ## 下载地址
 https://pan.quark.cn/s/078863eb02b9?pwd=pxdj
 
+使用说明：bilibili.com/video/BV1aCXYB2EHQ/
+
 环境支持：windows10+
 
 <img width="1000" height="632" alt="image" src="https://github.com/user-attachments/assets/15701f89-6891-46d1-9a42-cfefe74f83db" />
