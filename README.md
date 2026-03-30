@@ -4,7 +4,7 @@
 ## 下载地址
 https://pan.quark.cn/s/078863eb02b9?pwd=pxdj
 
-使用说明：bilibili.com/video/BV1aCXYB2EHQ/
+使用说明：[bilibili.com/video/BV1aCXYB2EHQ](https://www.bilibili.com/video/BV1aCXYB2EHQ/)
 
 环境支持：windows10+
 
